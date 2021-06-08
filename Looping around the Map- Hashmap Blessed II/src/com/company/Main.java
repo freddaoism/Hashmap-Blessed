@@ -15,7 +15,7 @@ public class Main {
         vehicles.put("Chevy", new ArrayList<String>(Arrays.asList("Malibu", "Silverado", "Suburban")));
         vehicles.put("Jeep", new ArrayList<String>(Arrays.asList("Wrangler", "Grand Cherokee", "Gladiator")));
         // we have domestic and internation options here at Fred's used car dealership
-
+al
 
         Scanner sc = new Scanner(System.in);
         // the scanner scanning for input
